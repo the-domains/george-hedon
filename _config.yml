@@ -1,0 +1,28 @@
+name: George Hedon
+favicon: null
+layout_spectrum: 0.7819892193656415
+typography_spectrum: 0.4049750487320125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2030918828677386
+  lightness: 0.9795692465268075
+  saturation: 0.7114732016343623
+  rhythmicContrast: 0.9928917500656098
+purpose: []
